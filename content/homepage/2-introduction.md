@@ -11,7 +11,7 @@ But when you take a closer look, what you find there is even more fascinating. W
 
 But what all these lakes have in common is their role as sentinels of global warming. These ecosystems, due to their location, are very vulnerable to the changes that are already very present in these environments.
 The increase in average temperatures has cascading consequences:
-![Jane Doe](images/cascade.png)
+![Schema](images/cascade.png)
 
 For these and many other reasons, Swiss high lakes are extremely vulnerable to climate change. They therefore make the resident population of Switzerland, perhaps you, a privileged witness of the consequences of global warming on the environment.
 

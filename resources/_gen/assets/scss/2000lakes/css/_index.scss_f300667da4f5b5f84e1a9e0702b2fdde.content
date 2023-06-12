@@ -252,13 +252,13 @@ body {
   color: var(--section-light-text-color); }
 
 ::-moz-selection {
-  color: #222;
+  color: #011A38;
   background: #d6edff;
   text-shadow: none; }
 
 ::selection {
-  color: #222;
-  background: #d6edff;
+  color: #011A38;
+  background: #90e0ef;
   text-shadow: none; }
 
 /** =========== Headings =========== */
